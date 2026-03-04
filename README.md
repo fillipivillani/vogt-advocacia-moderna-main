@@ -1,51 +1,36 @@
-# Welcome to your Vogt project
+# 🚀 Vogt Project
 
-## Project info
+Bem-vindo ao **Vogt Project**!  
+Este projeto foi desenvolvido com tecnologias modernas focadas em performance, escalabilidade e uma excelente experiência de desenvolvimento.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 📌 Sobre o Projeto
 
-**Use your preferred IDE**
+Aplicação frontend construída com stack moderna utilizando Vite + React + TypeScript, com estilização via Tailwind e componentes com shadcn-ui.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠 Tecnologias Utilizadas
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- ⚡ **Vite**
+- 🟦 **TypeScript**
+- ⚛️ **React**
+- 🧩 **shadcn-ui**
+- 🎨 **Tailwind CSS**
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 💻 Como Rodar o Projeto
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- npm install
+- npm run dev
 
-**Edit a file directly in GitHub**
+### ✅ Pré-requisitos
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Node.js instalado  
+- npm ou yarn  
 
-**Use GitHub Codespaces**
+> Recomendado instalar o Node.js utilizando o nvm:  
+> https://github.com/nvm-sh/nvm#installing-and-updating
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
