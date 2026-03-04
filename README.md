@@ -34,3 +34,7 @@ Aplicação frontend construída com stack moderna utilizando Vite + React + Typ
 > Recomendado instalar o Node.js utilizando o nvm:  
 > https://github.com/nvm-sh/nvm#installing-and-updating
 
+![alt text](image.png)
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
